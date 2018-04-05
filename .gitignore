@@ -1,0 +1,7 @@
+examples/*
+.idea/*
+ctb51/*
+*/__pycache__/*
+experiments/*
+ch-en*/
+analyze.in
